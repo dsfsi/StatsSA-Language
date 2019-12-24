@@ -35,6 +35,10 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+<!-- CONTRIBUTORS-->
+## Contributors
+* Ofentswe Lebogo [https://github.com/Ofentswe1](https://github.com/Ofentswe1)
+* Vukosi Marivate [https://github.com/vukosim](https://github.com/vukosim)
 
 <!-- CONTACT -->
 ## Contact
