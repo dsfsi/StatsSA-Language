@@ -1,6 +1,5 @@
 # StatsSA-Language
 
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -10,7 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Work to convert StatsSA statistical language glossary into machind readable text.
+Work to convert StatsSA statistical language glossary into machine eadable text.
 
 
 <!-- GETTING STARTED -->
@@ -33,7 +32,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Code Distributed under the MIT License. See `LICENSE` for more information.
+
+Data is distributed under CC 4.0 BY SA
 
 <!-- CONTRIBUTORS-->
 ## Contributors
@@ -52,3 +53,12 @@ Project Link: [https://github.com/dsfsi/StatsSA-Language](https://github.com/dsf
 ## Acknowledgements
 * StatsSA
 
+## Citing
+```latex
+@misc{m2019nlpaug,
+  title={Machine Readable StatsSA statistical language glossary},
+  author={Vukosi Marivate, Ofentswe Lebogo},
+  howpublished={\url{https://github.com/dsfsi/StatsSA-Languag}},
+  year={2019}
+}
+```
